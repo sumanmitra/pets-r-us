@@ -1,0 +1,16 @@
+com/petsrus/persistence/entity/Owner.class
+com/petsrus/persistence/service/OwnerService.class
+com/petsrus/PetsRUsApplication.class
+com/petsrus/persistence/repository/OwnerRepository.class
+com/petsrus/service/dto/OwnerDTO.class
+com/petsrus/exception/ExceptionResponse.class
+com/petsrus/exception/ApplicationExceptionHandler.class
+com/petsrus/controller/PetsrusController.class
+com/petsrus/config/AppConfig.class
+com/petsrus/service/PetsrusPetService.class
+com/petsrus/service/dto/PetDTO.class
+com/petsrus/persistence/entity/Pet.class
+com/petsrus/persistence/repository/PetRepository.class
+com/petsrus/persistence/service/PetService.class
+com/petsrus/service/PetsrusOwnerService.class
+com/petsrus/exception/ResourceNotFoundException.class
