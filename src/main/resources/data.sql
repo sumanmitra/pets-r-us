@@ -1,6 +1,6 @@
 insert into owner values(1, 20, 'Suman Mitra');
-insert into owner values(2, 25,'Adham Haddad');
-insert into owner values(3,  22,'Solana Gaspari');
+insert into owner values(2, 25,'Kiran Das');
+insert into owner values(3,  22,'Jason Roy');
 
 insert into pet values(1, 'WHITE','Jimy', 3);
 insert into pet values(2, 'BLACK','Jacky', 1);
